@@ -2,7 +2,7 @@
     "name": "ovidiupop/yii2-printthis",
     "description": "Print html by selector for Yii Framework 2.0",
     "type": "yii2-extension",
-    "keywords": ["yii", "yii2", "extension", "print", "html", "PrintThis"],
+    "keywords": ["yii2", "extension", "print", "html", "PrintThis"],
     "license": "GPL-3.0-or-later",
     "authors": [
         {
