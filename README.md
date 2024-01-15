@@ -2,11 +2,11 @@ PrintThis for Yii Framework 2
 ---
 Install
 -----
-composer require ovidiupop/yii2-printthis "^1.0"
+composer require ovidiupop/yii2-printthis "@dev"
 
 or add this line to composer.json
 
-"yii2assets/yii2-printthis": "^1.0"
+"ovidiupop/yii2-printthis": "@dev"
 
 
 Usage
