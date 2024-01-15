@@ -22,7 +22,7 @@ echo PrintThis::widget([
 		'id' => 'PrintThis',
 		'btnClass' => 'btn btn-info',
 		'btnId' => 'btnPrintThis',
-		'btnText' => 'พิมพ์หน้านี้',
+		'btnText' => 'Print',
 		'btnIcon' => 'fa fa-print'
 	],
 	'options' => [
