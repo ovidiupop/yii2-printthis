@@ -1,0 +1,23 @@
+{
+    "name": "ovidiupop/yii2-printthis",
+    "description": "Print html by selector for Yii Framework 2.0",
+    "keywords": ["yii", "yii2", "extension", "print", "html", "PrintThis"],
+    "homepage": "https://github.com/Yii2Assets/yii2-print-this",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ovidiu Pop",
+            "email": "ovidiupop70@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/PrintThis": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ovidiupop\\printthis\\": "src/"
+        }
+    }
+}
